@@ -1,4 +1,3 @@
-html id="h5s8kz"
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=header&text=Oscar%20Hernández&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
